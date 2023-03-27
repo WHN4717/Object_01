@@ -1,0 +1,11 @@
+Hello World
+New feature
+<<<<<<< HEAD
+<<<<<<< HEAD
+Hello World
+=======
+New feature
+>>>>>>> mybranch
+=======
+>>>>>>> mybranch
+New feature
